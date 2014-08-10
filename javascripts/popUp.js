@@ -78,7 +78,8 @@
 				  	.css({
 				  		zIndex : 10,
 						position: 'absolute',
-						top: pop_up_top
+						top: 10
+						right:10
 				  	}) 
 				  	.hide()
 					.fadeIn(1000);
