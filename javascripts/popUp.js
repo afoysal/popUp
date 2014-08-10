@@ -77,7 +77,8 @@
 				  	.appendTo('#popup')
 				  	.css({
 				  		zIndex : 10,
-						position: 'absolute'
+						position: 'absolute',
+						top:10
 				  	}) 
 				  	.hide()
 					.fadeIn(1000);
