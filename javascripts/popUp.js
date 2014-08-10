@@ -78,7 +78,7 @@
 				  	.css({
 				  		border: 0,
 				  		margin: 0,
-				  		boxShadow: 0
+				  		box-shadow: 0
 				  	})
 				  	.hide()
 					.fadeIn(1000);
