@@ -77,7 +77,8 @@
 				  	.appendTo('#popup')
 				  	.css({
 				  		border: 0,
-				  		margin: 0
+				  		margin: 0,
+				  		-webkit-box-shadow: 0
 				  	})
 				  	.hide()
 					.fadeIn(1000);
