@@ -422,7 +422,7 @@ Small Device Styles
   
   #pupup_cancle
   {
-    box-shadow: 0px;
+    cursor: pointer;
   }
   }
 }
