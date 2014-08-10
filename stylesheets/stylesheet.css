@@ -419,5 +419,10 @@ Small Device Styles
     max-width: 480px;
     font-size: 11px;
   }
-
+  
+  #pupup_cancl
+  {
+    box-shadow: 0px;
+  }
+  }
 }
