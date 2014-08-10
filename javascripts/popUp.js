@@ -59,7 +59,6 @@
 					backgroundColor: '#fffffF',  
 					top: pop_up_top,  
 					left: pop_up_left,
-					position: 'absolute',
 					height: popup_div_height,
 					width: popup_div_width,
 					zIndex : 10,
