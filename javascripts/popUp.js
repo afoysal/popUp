@@ -46,8 +46,7 @@
 					top:0,
 					left:0,
 					zIndex : 0,
-					position: 'absolute',
-					opacity:.50   
+					position: 'absolute'  
 				  }).fadeIn(1000); 
 				
 				
