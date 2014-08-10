@@ -78,7 +78,7 @@
 				  	.css({
 				  		zIndex : 10,
 						position: 'absolute',
-						top: 10
+						top: 10,
 						right:10
 				  	}) 
 				  	.hide()
