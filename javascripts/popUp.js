@@ -62,6 +62,7 @@
 					height: popup_div_height,
 					width: popup_div_width,
 					zIndex : 10,
+					position: 'absolute',
 					borderRadius: 10  
 				  }).fadeIn(1000).animate(
 				  {
