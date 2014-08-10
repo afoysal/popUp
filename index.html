@@ -12,9 +12,12 @@
     <script type="text/javascript" src="javascripts/modernizr.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script src="javascripts/popUp.js"></script>
     <script type="text/javascript">
       $(document).ready(function () {
         $('#main_content').headsmart()
+        var details = 'This is a simple jQuery popUp plugin';
+        $('#popup_generator').popUp({after_pop_up_div_height:'650',after_pop_up_div_width:'500',content:details}); 
       })
     </script>
     <title>popUp by afoysal</title>
