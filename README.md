@@ -6,4 +6,4 @@ This is a simple jQuery popUp Plugin.
 
 
 
-http://afoysal.github.io/popUp
+<a href="http://afoysal.github.io/popUp" target="_blank">popUp link</a>
