@@ -76,8 +76,7 @@
 					$('<img id="pupup_cancle" src="https://cloud.githubusercontent.com/assets/1283998/3868676/ab55544a-205a-11e4-83ff-b1008f28d277.gif" height="16" width="16" align="right"/>')  
 				  	.appendTo('#popup')
 				  	.css({
-				  		border: 0,
-				  		box-shadow: #ffffff 
+				  		border: 0
 				  	})
 				  	.hide()
 					.fadeIn(1000);
